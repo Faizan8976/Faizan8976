@@ -4,6 +4,14 @@
 
 # Hi 👋, I'm Muhammad Faizan
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+%F0%9F%87%B5%F0%9F%87%B0;Intern+at+AppsGenii;Always+Learning+New+Things" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://twitter.com/faizanmuh728804" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/faizanmuh728804?logo=twitter&style=for-the-badge&color=1DA1F2&label=Follow" alt="Follow @faizanmuh728804 on Twitter" />
+</a>
+
 </div>
 
 ---
