@@ -53,24 +53,11 @@
 
 ---
 
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Faizan8976/Fyp_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan8976&repo=Fyp_project&theme=radical&cache_seconds=86400" width="49%" />
-  </a>
-  <a href="https://github.com/Faizan8976/Faizan8976">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan8976&repo=Faizan8976&theme=radical&cache_seconds=86400" width="49%" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan8976&show_icons=true&locale=en&theme=radical&cache_seconds=86400" alt="Faizan8976 stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan8976&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Faizan8976 top langs" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Faizan8976&show_icons=true&locale=en&theme=radical" alt="Faizan8976 stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Faizan8976&show_icons=true&locale=en&layout=compact&theme=radical" alt="Faizan8976 top langs" width="49%" />
 </p>
 
 <p align="center">
