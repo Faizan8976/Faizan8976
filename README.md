@@ -29,9 +29,11 @@
 <a href="https://twitter.com/@faizanmuh728804" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="40" />
 </a>
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/mfaizan099" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
 </a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/its_faizan049" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" />
 </a>
@@ -49,24 +51,16 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-
 ---
 
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/faizan-099/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan-099&repo=REPO_NAME_1&theme=radical" width="49%" />
+  <a href="https://github.com/Faizan8976/Fyp_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan8976&repo=Fyp_project&theme=radical" width="49%" />
   </a>
-  <a href="https://github.com/faizan-099/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizan-099&repo=REPO_NAME_2&theme=radical" width="49%" />
+  <a href="https://github.com/Faizan8976/Faizan8976">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan8976&repo=Faizan8976&theme=radical" width="49%" />
   </a>
 </p>
 
@@ -75,14 +69,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizan-099&show_icons=true&locale=en&theme=radical" alt="faizan-099 stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-099&show_icons=true&locale=en&layout=compact&theme=radical" alt="faizan-099 top langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan8976&show_icons=true&locale=en&theme=radical" alt="Faizan8976 stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan8976&show_icons=true&locale=en&layout=compact&theme=radical" alt="Faizan8976 top langs" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=faizan-099&theme=radical" alt="faizan-099 streak" />
+  <img src="https://streak-stats.demolab.com/?user=Faizan8976&theme=radical" alt="Faizan8976 streak" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/faizan-099/count.svg" alt="profile views" />
+  <img src="https://profile-counter.glitch.me/Faizan8976/count.svg" alt="profile views" />
 </p>
